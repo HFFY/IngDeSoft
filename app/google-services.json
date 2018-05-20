@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "64030466091",
+    "firebase_url": "https://chas-d71fc.firebaseio.com",
+    "project_id": "chas-d71fc",
+    "storage_bucket": "chas-d71fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64030466091:android:44ae722ccd89b3d6",
+        "android_client_info": {
+          "package_name": "com.example.hugofabianflores.chasproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64030466091-3558a517msagmru9fjsr4iahcf8vud3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hugofabianflores.chasproyecto",
+            "certificate_hash": "8d76ce52a3385bc134830f699d35a3eb7ba996e8"
+          }
+        },
+        {
+          "client_id": "64030466091-0j2gmmrn98fns3omb10hp5obol3dsp78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_4UkPPWylE_q1utLlTbn4wyGBqud5-jw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64030466091-0j2gmmrn98fns3omb10hp5obol3dsp78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
